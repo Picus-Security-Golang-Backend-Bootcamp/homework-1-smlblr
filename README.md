@@ -1,4 +1,6 @@
-# homework-1-smlblr
+# LISTING BOOKS AND SEARCHING BOOKS IN BOOK LIST
+
+## How to use
 
 - If you want to listing booklist, you have to run code as follow.
 
